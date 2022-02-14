@@ -16,7 +16,7 @@ Abaixo estão as tecnologias utilizadas na criação deste projeto:
 * Heroku
 
 ## Acesse o projeto
-* https://acervofatec-etec.herokuapp.com/
+* https://open-doors.herokuapp.com/
 
 ## Resultado Final
 
